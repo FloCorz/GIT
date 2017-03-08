@@ -8,5 +8,5 @@
 
 ## Bilder und Links
 
-![Webcam von der Seegrube](seegrube.jpg) 
+![Webcam von der Seegrube](https://www.foto-webcam.eu/webcam/innsbruck/2017/03/08/1710_hd.jpg) 
 Quelle: [Bild von der Seegrube](https://www.foto-webcam.eu/webcam/innsbruck/)
